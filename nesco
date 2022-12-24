@@ -1,8 +1,5 @@
 import requests
 number = str(input("Please inter victim's number:+88"))
-if number == "01645310302": 
-    print("This number blacklisted by delwar!")
-exit()
 
 amount = int(input("Enter amount: "))
 
